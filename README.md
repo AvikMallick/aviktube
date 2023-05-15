@@ -1,6 +1,6 @@
-# Getting Started with Create React App at [AvikTube](https://aviktube.netlify.app/).
+# Getting Started with Create React App
 
-The website is live
+The website is live at [AvikTube](https://aviktube.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
